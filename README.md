@@ -1,3 +1,3 @@
 algorithmic-problems
 ====================
-Algorithmic problem solutions
+Algorithmic problem solutions.
